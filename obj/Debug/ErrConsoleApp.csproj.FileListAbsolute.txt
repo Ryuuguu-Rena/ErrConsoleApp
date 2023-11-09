@@ -1,0 +1,7 @@
+E:\code\teacherExampleReps\ErrConsoleApp\bin\Debug\ErrConsoleApp.exe.config
+E:\code\teacherExampleReps\ErrConsoleApp\bin\Debug\ErrConsoleApp.exe
+E:\code\teacherExampleReps\ErrConsoleApp\bin\Debug\ErrConsoleApp.pdb
+E:\code\teacherExampleReps\ErrConsoleApp\obj\Debug\ErrConsoleApp.csproj.AssemblyReference.cache
+E:\code\teacherExampleReps\ErrConsoleApp\obj\Debug\ErrConsoleApp.csproj.CoreCompileInputs.cache
+E:\code\teacherExampleReps\ErrConsoleApp\obj\Debug\ErrConsoleApp.exe
+E:\code\teacherExampleReps\ErrConsoleApp\obj\Debug\ErrConsoleApp.pdb
